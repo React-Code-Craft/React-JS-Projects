@@ -1,10 +1,12 @@
+import Header from "./Components/Common/Header/Index"
 
+Header
 function App() {
 
 
     return (
         <>
-            APP
+            <Header />
         </>
     )
 }
