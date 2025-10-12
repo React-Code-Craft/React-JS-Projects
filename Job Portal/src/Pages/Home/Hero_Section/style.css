@@ -1,0 +1,107 @@
+/*-------------------
+    Custom CSS 
+-------------------*/
+.hero-section {
+    background-image: url('../../../assets/Hero-Section/back-lines.png');
+    /* background-color: #f5f3fd; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bg-circle-container {
+    transform: translate(-50%, -50%);
+}
+
+.inner-circle {
+    background-image: url("../../../assets/Hero-Section/dashed-circle1.svg");
+    background-size: 100%;
+    transform: translate(-50%, -50%);
+    animation: inner-circle 20s linear infinite;
+}
+
+.inner-circle::before {
+    width: 12px;
+    height: 12px;
+    content: "";
+    background: blue;
+    position: absolute;
+    top: 50%;
+    left: -1%;
+    border-radius: 12px;
+}
+
+.inner-circle::after {
+    width: 12px;
+    height: 12px;
+    content: "";
+    background: blue;
+    position: absolute;
+    top: 25%;
+    right: 5%;
+    border-radius: 12px;
+}
+
+@keyframes inner-circle {
+    0% {
+        transform: translate(-50%, -50%) rotate(0deg);
+    }
+
+    100% {
+        transform: translate(-50%, -50%) rotate(360deg);
+    }
+}
+
+.middle-circle {
+    background: url("../../../assets/Hero-Section/dashed-circle2.svg");
+    position: absolute;
+    top: 44%;
+    left: 49.5%;
+    background-size: 100%;
+    transform: translate(-50%, -50%);
+    animation: middle-circle 45s linear infinite;
+}
+
+@keyframes middle-circle {
+    0% {
+        transform: translate(-50%, -50%) rotate(0deg);
+    }
+
+    100% {
+        transform: translate(-50%, -50%) rotate(360deg);
+    }
+}
+
+.outer-circle {
+    background: url("../../../assets/Hero-Section/dashed-circle3.svg");
+    background-size: 100%;
+    animation: outer-circle 90s linear infinite;
+    position: absolute;
+    top: 44%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+}
+
+@keyframes outer-circle {
+    0% {
+        transform: translate(-50%, -50%) rotate(0deg);
+    }
+
+    100% {
+        transform: translate(-50%, -50%) rotate(360deg);
+    }
+}
+
+.client-review-img-outline {
+    animation: rotate 30s linear infinite;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}

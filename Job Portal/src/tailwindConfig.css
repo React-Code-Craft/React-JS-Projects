@@ -17,7 +17,7 @@
     Customize theme of Tailwind
 ----------------------------------*/
 @theme {
-    --color-primary: #2e55fa;
+    --color-primary: #613FE5;
     --color-primary-hover: #1d46f5;
     --color-primary-05: rgba(46, 85, 250, 0.05);
     --color-primary-1: rgba(46, 85, 250, 0.1);

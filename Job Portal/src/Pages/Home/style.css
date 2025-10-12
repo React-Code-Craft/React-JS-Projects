@@ -1,0 +1,32 @@
+.join-now-banner {
+    position: relative;
+    z-index: 1;
+    width: 50vw;
+    float: left;
+}
+
+.join-now-banner img {
+    width: 597px;
+    height: 100%;
+    left: -40px;
+    position: relative;
+    mask-image: url('../../assets/back-mask3.png');
+    -webkit-mask-image: url('../../assets/back-mask3.png');
+    -webkit-mask-position: -70px -132px;
+}
+
+.join-now-banner svg {
+    background-size: 100%;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    width: 870px;
+    height: 708px;
+    position: absolute;
+    bottom: 1px;
+    left: 0px;
+    z-index: -1;
+}
+
+.join-now-banner svg path {
+    fill: #613FE5;
+}
