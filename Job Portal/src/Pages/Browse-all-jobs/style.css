@@ -1,0 +1,73 @@
+.browse-all-jobs {
+    background-image: url(../../assets/Browse\ all\ jobs/banner.png);
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+.overlay {
+    background: -moz-radial-gradient(center, ellipse cover, rgba(25, 38, 101, 0.397) 0%, rgba(9, 18, 63, 0.289) 49%, rgba(34, 40, 69, 0.329) 100%);
+    /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(25, 38, 105, 0.7) 0%, rgba(9, 18, 63, 0.7) 49%, rgba(34, 40, 69, 0.7) 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    /* background: radial-gradient(ellipse at center, rgba(25,38,101,1) 0%,rgba(9,18,63,1) 49%,rgba(34,40,69,1) 100%); */
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#192665', endColorstr='#222845', GradientType=1);
+}
+
+.overlay-black-dark:after {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#192665+0,09123f+49,222845+100 */
+    /* background: rgb(25,38,101); */
+    /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover, rgba(25, 38, 101, 1) 0%, rgba(9, 18, 63, 1) 49%, rgba(34, 40, 69, 1) 100%);
+    /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover, rgb(25 39 105) 0%, rgba(9, 18, 63, 1) 49%, rgba(34, 40, 69, 1) 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    /* background: radial-gradient(ellipse at center, rgba(25,38,101,1) 0%,rgba(9,18,63,1) 49%,rgba(34,40,69,1) 100%); */
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#192665', endColorstr='#222845', GradientType=1);
+    /* IE6-9 fallback on horizontal gradient */
+}
+
+/* .search-filter-form {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+} */
+
+.labal {
+
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+    transition: all 400ms ease-in;
+    /* color: rgb(85, 85, 85); */
+
+}
+
+.input:focus {
+    outline: none;
+}
+
+.input:focus+.labal,
+.input:not(:placeholder-shown)+.labal {
+    bottom: 40px;
+    color: rgb(195, 195, 195);
+    font-size: 12px;
+}
+
+.class {
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+    transition: all 0.4s ease;
+}
+
+.class.active {
+    max-height: 200px;
+    /* adjust as needed */
+    opacity: 1;
+}

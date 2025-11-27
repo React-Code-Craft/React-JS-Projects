@@ -40,6 +40,7 @@ import { FiCheckCircle } from "react-icons/fi";
 import { RiUserAddLine } from "react-icons/ri";
 import { IoSearch } from "react-icons/io5";
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa6";
+// import { useData } from '../../Custom_Hooks/useData';
 
 
 
@@ -112,10 +113,10 @@ const Client_Review = [
 ]
 
 export default function Home() {
+    // useData()
     return (
         <>
-            {/*==== Header ====*/}
-            <Header />
+
 
             {/*==== Hero Section ====*/}
             <Hero_Section />
@@ -154,13 +155,13 @@ export default function Home() {
                         {Steps.map((step, idx) => (
                             <div
                                 key={idx}
-                                className="bg-white dark:bg-dark-secondary rounded-lg px-6 py-10 text-center shadow-[0px_10px_60px_0px_rgba(0,0,0,.1)] relative group transition-all duration-400 ease-in-out z-30"
+                                className="bg-white dark:bg-dark-secondary rounded-lg px-6 py-10 text-center shadow-[0px_10px_60px_0px_rgba(0,0,0,.1)] relative group transition-all duration-300 delay-0 ease-in-out z-30"
                             >
                                 <div className="absolute top-0 left-0 w-full h-0 transition-all duration-500 ease-in-out rounded-lg bg-primary group-hover:h-full -z-10"></div>
                                 <div className="bg-primary  size-[66px] mb-5 flex items-center justify-center rounded-md mx-auto group-hover:bg-white group-hover:text-primary transition-all duration-400 ease-in-out">
                                     {step.icon}
                                 </div>
-                                <h3 className="mb-2 text-xl font-medium font-Rubik text-title dark:text-primary group-hover:text-white">{step.title}</h3>
+                                <h3 className="mb-2 text-xl font-medium font-Rubik text-title dark:text-primary group-hover:text-white transition-all duration-300 delay-0 ease-in-out">{step.title}</h3>
                                 <p className="text-[15px] text-title dark:text-white font-lato group-hover:text-white">{step.description}</p>
                             </div>
                         ))}
@@ -179,10 +180,10 @@ export default function Home() {
                     </div>
 
                     <div className="w-1/2 hidden xl:block ">
-                        <div class="join-now-banner">
+                        <div className="join-now-banner">
                             <img src={man_img} />
                             <svg width="892" height="733" viewBox="0 0 892 733" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" clip-rule="evenodd" d="M61.3623 116.435C23.5447 121.128 -3.30874 155.589 1.38355 193.406L44.2694 539.047C47.5755 565.692 65.66 586.895 89.2844 595.456C95.1286 598.219 101.463 600.202 108.175 601.249L941.587 731.348C979.239 737.225 1014.53 711.467 1020.4 673.815L1050.07 483.78L1053.09 483.404C1090.91 478.712 1117.77 444.251 1113.07 406.433L1070.19 60.7929C1065.5 22.9753 1031.03 -3.87817 993.217 0.81412L61.3623 116.435Z" fill="#2E55FA" />
+                                <path fillRule="evenodd" clipRule="evenodd" d="M61.3623 116.435C23.5447 121.128 -3.30874 155.589 1.38355 193.406L44.2694 539.047C47.5755 565.692 65.66 586.895 89.2844 595.456C95.1286 598.219 101.463 600.202 108.175 601.249L941.587 731.348C979.239 737.225 1014.53 711.467 1020.4 673.815L1050.07 483.78L1053.09 483.404C1090.91 478.712 1117.77 444.251 1113.07 406.433L1070.19 60.7929C1065.5 22.9753 1031.03 -3.87817 993.217 0.81412L61.3623 116.435Z" fill="#2E55FA" />
                             </svg>
                         </div>
                     </div>
@@ -313,8 +314,7 @@ export default function Home() {
                 </main>
             </section >
 
-            {/*==== Footer ====*/}
-            <Footer />
+
         </>
     )
 }

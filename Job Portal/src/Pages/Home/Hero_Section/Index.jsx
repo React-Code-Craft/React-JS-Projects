@@ -1,6 +1,8 @@
 import React from 'react'
 // Import Custom style sheet
 import './style.css'
+import { useState } from 'react';
+import { useNavigate } from 'react-router-dom'
 
 // Import Images
 import man from '@Assets/Hero-Section/man.png';
@@ -19,6 +21,15 @@ import Button from '@Components/Atomic_UI/Button'
 
 
 export default function Hero_Section() {
+    let navigate = useNavigate();
+    let [input, setinput] = useState({ title: '', country: '' });
+    function handlesubmit(e) {
+        let path = `searchResult?title=${input.title}&country=${input.country}`
+        e.preventDefault();
+        navigate(path)
+
+    }
+    console.log(input)
     return (
         <>
             <section className='hero-section px-4 flex items-center   overflow-hidden hero-section bg-[#f5f3fd]    dark:bg-dark-main-banr '>
@@ -31,16 +42,16 @@ export default function Hero_Section() {
                             <p className="text-base font-medium font-Poppins text-primary mb-2.5 ">Type your keywork, then click search to find your perfect job.</p>
 
                             {/*==== Search Form ====*/}
-                            <form >
+                            <form onSubmit={handlesubmit}>
                                 <div className="mt-3 mb-5 rounded bg-white py-4 px-5 shadow-[0_10px_60px_0px_rgba(97,63,229,0.2)] search-box md:flex md:items-center md:justify-between">
                                     <div className="flex items-center w-full mb-2.5 md:mb-0 p-2 md:p-2.5  rounded-sm md:w-auto border border-[rgba(0,0,0,0.1)] md:border-0">
                                         <IoSearch className='mr-2 text-lg md:text-[22px] text-primary' />
-                                        <input type="text" placeholder='Job title, Keyword' className='font-Poppins focus:outline-none w-full md:w-auto placelder:font-Poppins' />
+                                        <input value={input.title} onChange={(e) => setinput({ ...input, title: e.target.value })} type="text" placeholder='Job title, Keyword' className='font-Poppins focus:outline-none w-full md:w-auto placelder:font-Poppins' />
                                     </div>
 
                                     <div className="flex items-center md:w-auto p-2 mb-2.5 md:mb-0  md:p-2.5 border border-[rgba(0,0,0,0.1)] md:border-0">
                                         <IoLocationOutline className='mr-2 text-lg md:text-[22px] text-primary' />
-                                        <input type="text" placeholder='Zip Code, Country' className='font-Poppins focus:outline-none w-full md:w-auto placeholder:font-Poppins' />
+                                        <input value={input.country} onChange={(e) => setinput({ ...input, country: e.target.value })} type="text" placeholder='Zip Code, Country' className='font-Poppins focus:outline-none w-full md:w-auto placeholder:font-Poppins' />
                                     </div>
 
                                     <div className="w-full md:w-auto">

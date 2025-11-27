@@ -1,3 +1,8 @@
+.button {
+    overflow: hidden;
+    position: relative;
+}
+
 .button::after {
     width: 20px;
     height: 100%;
@@ -15,4 +20,8 @@
 .button:hover::after {
     left: 110%;
     transition: all 0.5s ease;
+}
+
+.backButton {
+    clip-path: polygon(100% 0%, 100% 48%, 100% 100%, 25% 100%, 0% 50%, 28% 0);
 }

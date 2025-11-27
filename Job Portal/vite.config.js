@@ -14,6 +14,7 @@ export default defineConfig({
             '@Assets': path.resolve(__dirname, 'src/assets'),
             '@Components': path.resolve(__dirname, 'src/Components'),
             '@Pages': path.resolve(__dirname, 'src/Pages'),
+            '@Admin': path.resolve(__dirname, 'src/Admin'),
         }
     }
 })

@@ -1,0 +1,3356 @@
+[
+  {
+    "id": 1,
+    "title": "Machine Learning Engineer",
+    "companyName": "BitWorks",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/1/800/450",
+    "description": "We are looking for a Machine Learning Engineer to join our team at BitWorks. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Hybrid",
+    "startingSalary": 2366,
+    "endingSalary": 3355,
+    "location": "Lahore, Pakistan",
+    "deadline": "2025-10-21"
+  },
+  {
+    "id": 2,
+    "title": "Product Designer",
+    "companyName": "Appify",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/2/800/450",
+    "description": "We are looking for a Product Designer to join our team at Appify. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Part Time",
+    "jobType": "Onsite",
+    "startingSalary": 4246,
+    "endingSalary": 5072,
+    "location": "Toronto, Canada",
+    "deadline": "2025-12-24"
+  },
+  {
+    "id": 3,
+    "title": "QA Engineer",
+    "companyName": "CodeWave",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/3/800/450",
+    "description": "We are looking for a QA Engineer to join our team at CodeWave. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Hybrid",
+    "startingSalary": 3024,
+    "endingSalary": 4150,
+    "location": "Berlin, Germany",
+    "deadline": "2025-10-22"
+  },
+  {
+    "id": 4,
+    "title": "DevOps Engineer",
+    "companyName": "NextVision",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/4/800/450",
+    "description": "We are looking for a DevOps Engineer to join our team at NextVision. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Hybrid",
+    "startingSalary": 4191,
+    "endingSalary": 6190,
+    "location": "Sydney, Australia",
+    "deadline": "2025-12-01"
+  },
+  {
+    "id": 5,
+    "title": "AI Researcher",
+    "companyName": "DevSpark",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/5/800/450",
+    "description": "We are looking for a AI Researcher to join our team at DevSpark. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Hybrid",
+    "startingSalary": 1642,
+    "endingSalary": 2703,
+    "location": "Tokyo, Japan",
+    "deadline": "2025-10-24"
+  },
+  {
+    "id": 6,
+    "title": "Software Engineer",
+    "companyName": "PixelPoint Labs",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/6/800/450",
+    "description": "We are looking for a Software Engineer to join our team at PixelPoint Labs. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Onsite",
+    "startingSalary": 1513,
+    "endingSalary": 2217,
+    "location": "Singapore",
+    "deadline": "2025-12-16"
+  },
+  {
+    "id": 7,
+    "title": "Game Developer",
+    "companyName": "VirtuCode",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/7/800/450",
+    "description": "We are looking for a Game Developer to join our team at VirtuCode. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Remote",
+    "startingSalary": 3741,
+    "endingSalary": 5652,
+    "location": "Toronto, Canada",
+    "deadline": "2025-10-05"
+  },
+  {
+    "id": 8,
+    "title": "Web Developer",
+    "companyName": "CloudNex",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/8/800/450",
+    "description": "We are looking for a Web Developer to join our team at CloudNex. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Remote",
+    "startingSalary": 2421,
+    "endingSalary": 3786,
+    "location": "Singapore",
+    "deadline": "2025-11-26"
+  },
+  {
+    "id": 9,
+    "title": "Web Developer",
+    "companyName": "CodeWave",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/9/800/450",
+    "description": "We are looking for a Web Developer to join our team at CodeWave. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Remote",
+    "startingSalary": 1386,
+    "endingSalary": 2785,
+    "location": "Lahore, Pakistan",
+    "deadline": "2025-10-19"
+  },
+  {
+    "id": 10,
+    "title": "Backend Engineer",
+    "companyName": "CloudNex",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/10/800/450",
+    "description": "We are looking for a Backend Engineer to join our team at CloudNex. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Onsite",
+    "startingSalary": 1724,
+    "endingSalary": 3552,
+    "location": "Singapore",
+    "deadline": "2025-10-09"
+  },
+  {
+    "id": 11,
+    "title": "System Administrator",
+    "companyName": "VirtuCode",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/11/800/450",
+    "description": "We are looking for a System Administrator to join our team at VirtuCode. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Data",
+      "AI"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Remote",
+    "startingSalary": 4883,
+    "endingSalary": 5976,
+    "location": "Tokyo, Japan",
+    "deadline": "2025-11-06"
+  },
+  {
+    "id": 12,
+    "title": "Frontend Developer",
+    "companyName": "Appify",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/12/800/450",
+    "description": "We are looking for a Frontend Developer to join our team at Appify. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Onsite",
+    "startingSalary": 2415,
+    "endingSalary": 4026,
+    "location": "Sydney, Australia",
+    "deadline": "2025-12-21"
+  },
+  {
+    "id": 13,
+    "title": "DevOps Engineer",
+    "companyName": "DevSpark",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/13/800/450",
+    "description": "We are looking for a DevOps Engineer to join our team at DevSpark. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Onsite",
+    "startingSalary": 1877,
+    "endingSalary": 3461,
+    "location": "Toronto, Canada",
+    "deadline": "2025-11-02"
+  },
+  {
+    "id": 14,
+    "title": "React Developer",
+    "companyName": "CodeWave",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/14/800/450",
+    "description": "We are looking for a React Developer to join our team at CodeWave. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Onsite",
+    "startingSalary": 4050,
+    "endingSalary": 4555,
+    "location": "Toronto, Canada",
+    "deadline": "2025-11-25"
+  },
+  {
+    "id": 15,
+    "title": "Machine Learning Engineer",
+    "companyName": "TechHive",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/15/800/450",
+    "description": "We are looking for a Machine Learning Engineer to join our team at TechHive. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Remote",
+    "startingSalary": 4119,
+    "endingSalary": 4816,
+    "location": "Berlin, Germany",
+    "deadline": "2025-12-02"
+  },
+  {
+    "id": 16,
+    "title": "Software Engineer",
+    "companyName": "PixelPoint Labs",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/16/800/450",
+    "description": "We are looking for a Software Engineer to join our team at PixelPoint Labs. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Remote",
+    "startingSalary": 4629,
+    "endingSalary": 6577,
+    "location": "Dubai, UAE",
+    "deadline": "2025-10-15"
+  },
+  {
+    "id": 17,
+    "title": "Full Stack Developer",
+    "companyName": "AlphaCode",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/17/800/450",
+    "description": "We are looking for a Full Stack Developer to join our team at AlphaCode. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Hybrid",
+    "startingSalary": 2826,
+    "endingSalary": 3735,
+    "location": "New York, USA",
+    "deadline": "2025-12-28"
+  },
+  {
+    "id": 18,
+    "title": "IT Support Engineer",
+    "companyName": "TechHive",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/18/800/450",
+    "description": "We are looking for a IT Support Engineer to join our team at TechHive. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Remote",
+    "startingSalary": 4823,
+    "endingSalary": 6065,
+    "location": "San Francisco, USA",
+    "deadline": "2025-11-11"
+  },
+  {
+    "id": 19,
+    "title": "Product Designer",
+    "companyName": "Designify",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/19/800/450",
+    "description": "We are looking for a Product Designer to join our team at Designify. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Hybrid",
+    "startingSalary": 3851,
+    "endingSalary": 5042,
+    "location": "Mumbai, India",
+    "deadline": "2025-10-14"
+  },
+  {
+    "id": 20,
+    "title": "Mobile App Developer",
+    "companyName": "FusionWare",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/20/800/450",
+    "description": "We are looking for a Mobile App Developer to join our team at FusionWare. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Onsite",
+    "startingSalary": 2538,
+    "endingSalary": 3556,
+    "location": "Berlin, Germany",
+    "deadline": "2025-10-11"
+  },
+  {
+    "id": 21,
+    "title": "Project Manager",
+    "companyName": "DataCloud",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/21/800/450",
+    "description": "We are looking for a Project Manager to join our team at DataCloud. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Data",
+      "AI"
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "employmentType": "Part Time",
+    "jobType": "Hybrid",
+    "startingSalary": 3956,
+    "endingSalary": 4545,
+    "location": "London, UK",
+    "deadline": "2025-11-24"
+  },
+  {
+    "id": 22,
+    "title": "Backend Engineer",
+    "companyName": "Designify",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/22/800/450",
+    "description": "We are looking for a Backend Engineer to join our team at Designify. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Onsite",
+    "startingSalary": 1360,
+    "endingSalary": 3249,
+    "location": "Lahore, Pakistan",
+    "deadline": "2025-12-04"
+  },
+  {
+    "id": 23,
+    "title": "Product Designer",
+    "companyName": "AlphaCode",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/23/800/450",
+    "description": "We are looking for a Product Designer to join our team at AlphaCode. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Onsite",
+    "startingSalary": 4875,
+    "endingSalary": 5525,
+    "location": "Mumbai, India",
+    "deadline": "2025-10-27"
+  },
+  {
+    "id": 24,
+    "title": "System Administrator",
+    "companyName": "TechHive",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/24/800/450",
+    "description": "We are looking for a System Administrator to join our team at TechHive. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Part Time",
+    "jobType": "Onsite",
+    "startingSalary": 3933,
+    "endingSalary": 4636,
+    "location": "Mumbai, India",
+    "deadline": "2025-11-12"
+  },
+  {
+    "id": 25,
+    "title": "Web Developer",
+    "companyName": "NextVision",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/25/800/450",
+    "description": "We are looking for a Web Developer to join our team at NextVision. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Onsite",
+    "startingSalary": 4518,
+    "endingSalary": 5802,
+    "location": "Singapore",
+    "deadline": "2025-11-07"
+  },
+  {
+    "id": 26,
+    "title": "Web Developer",
+    "companyName": "VirtuCode",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/26/800/450",
+    "description": "We are looking for a Web Developer to join our team at VirtuCode. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Data",
+      "AI"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Remote",
+    "startingSalary": 3337,
+    "endingSalary": 4985,
+    "location": "Lahore, Pakistan",
+    "deadline": "2025-11-04"
+  },
+  {
+    "id": 27,
+    "title": "AI Researcher",
+    "companyName": "TechHive",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/27/800/450",
+    "description": "We are looking for a AI Researcher to join our team at TechHive. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Onsite",
+    "startingSalary": 1101,
+    "endingSalary": 2507,
+    "location": "Sydney, Australia",
+    "deadline": "2025-12-18"
+  },
+  {
+    "id": 28,
+    "title": "Game Developer",
+    "companyName": "TechNova",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/28/800/450",
+    "description": "We are looking for a Game Developer to join our team at TechNova. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Data",
+      "AI"
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "employmentType": "Part Time",
+    "jobType": "Onsite",
+    "startingSalary": 1099,
+    "endingSalary": 1705,
+    "location": "Dubai, UAE",
+    "deadline": "2025-11-15"
+  },
+  {
+    "id": 29,
+    "title": "Game Developer",
+    "companyName": "BlueLogic",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/29/800/450",
+    "description": "We are looking for a Game Developer to join our team at BlueLogic. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Data",
+      "AI"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Hybrid",
+    "startingSalary": 1432,
+    "endingSalary": 2716,
+    "location": "Tokyo, Japan",
+    "deadline": "2025-12-17"
+  },
+  {
+    "id": 30,
+    "title": "Software Engineer",
+    "companyName": "NextVision",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/30/800/450",
+    "description": "We are looking for a Software Engineer to join our team at NextVision. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "employmentType": "Part Time",
+    "jobType": "Hybrid",
+    "startingSalary": 3341,
+    "endingSalary": 4019,
+    "location": "Tokyo, Japan",
+    "deadline": "2025-10-01"
+  },
+  {
+    "id": 31,
+    "title": "Web Developer",
+    "companyName": "CyberNest",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/31/800/450",
+    "description": "We are looking for a Web Developer to join our team at CyberNest. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Remote",
+    "startingSalary": 1538,
+    "endingSalary": 3258,
+    "location": "San Francisco, USA",
+    "deadline": "2025-11-10"
+  },
+  {
+    "id": 32,
+    "title": "IT Support Engineer",
+    "companyName": "SkySoft",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/32/800/450",
+    "description": "We are looking for a IT Support Engineer to join our team at SkySoft. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "employmentType": "Part Time",
+    "jobType": "Onsite",
+    "startingSalary": 1380,
+    "endingSalary": 2131,
+    "location": "Toronto, Canada",
+    "deadline": "2025-11-08"
+  },
+  {
+    "id": 33,
+    "title": "Mobile App Developer",
+    "companyName": "NextVision",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/33/800/450",
+    "description": "We are looking for a Mobile App Developer to join our team at NextVision. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Hybrid",
+    "startingSalary": 3037,
+    "endingSalary": 4712,
+    "location": "Lahore, Pakistan",
+    "deadline": "2025-12-16"
+  },
+  {
+    "id": 34,
+    "title": "DevOps Engineer",
+    "companyName": "FusionWare",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/34/800/450",
+    "description": "We are looking for a DevOps Engineer to join our team at FusionWare. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Data",
+      "AI"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Hybrid",
+    "startingSalary": 1150,
+    "endingSalary": 2536,
+    "location": "London, UK",
+    "deadline": "2025-12-04"
+  },
+  {
+    "id": 35,
+    "title": "Frontend Developer",
+    "companyName": "Designify",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/35/800/450",
+    "description": "We are looking for a Frontend Developer to join our team at Designify. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Part Time",
+    "jobType": "Hybrid",
+    "startingSalary": 2863,
+    "endingSalary": 4322,
+    "location": "Singapore",
+    "deadline": "2025-11-04"
+  },
+  {
+    "id": 36,
+    "title": "Web Developer",
+    "companyName": "VirtuCode",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/36/800/450",
+    "description": "We are looking for a Web Developer to join our team at VirtuCode. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Part Time",
+    "jobType": "Onsite",
+    "startingSalary": 2891,
+    "endingSalary": 4731,
+    "location": "New York, USA",
+    "deadline": "2025-10-13"
+  },
+  {
+    "id": 37,
+    "title": "React Developer",
+    "companyName": "DevSpark",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/37/800/450",
+    "description": "We are looking for a React Developer to join our team at DevSpark. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Remote",
+    "startingSalary": 3998,
+    "endingSalary": 5202,
+    "location": "Berlin, Germany",
+    "deadline": "2025-12-26"
+  },
+  {
+    "id": 38,
+    "title": "Software Engineer",
+    "companyName": "Designify",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/38/800/450",
+    "description": "We are looking for a Software Engineer to join our team at Designify. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Remote",
+    "startingSalary": 2641,
+    "endingSalary": 4597,
+    "location": "Mumbai, India",
+    "deadline": "2025-10-22"
+  },
+  {
+    "id": 39,
+    "title": "Game Developer",
+    "companyName": "NextVision",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/39/800/450",
+    "description": "We are looking for a Game Developer to join our team at NextVision. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Remote",
+    "startingSalary": 2531,
+    "endingSalary": 3268,
+    "location": "Dubai, UAE",
+    "deadline": "2025-11-28"
+  },
+  {
+    "id": 40,
+    "title": "Cloud Engineer",
+    "companyName": "Netwave",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/40/800/450",
+    "description": "We are looking for a Cloud Engineer to join our team at Netwave. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Remote",
+    "startingSalary": 2906,
+    "endingSalary": 4450,
+    "location": "San Francisco, USA",
+    "deadline": "2025-10-17"
+  },
+  {
+    "id": 41,
+    "title": "Machine Learning Engineer",
+    "companyName": "CodeWave",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/41/800/450",
+    "description": "We are looking for a Machine Learning Engineer to join our team at CodeWave. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Data",
+      "AI"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Remote",
+    "startingSalary": 3395,
+    "endingSalary": 4958,
+    "location": "Toronto, Canada",
+    "deadline": "2025-11-17"
+  },
+  {
+    "id": 42,
+    "title": "AI Researcher",
+    "companyName": "DevSpark",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/42/800/450",
+    "description": "We are looking for a AI Researcher to join our team at DevSpark. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "employmentType": "Part Time",
+    "jobType": "Hybrid",
+    "startingSalary": 2002,
+    "endingSalary": 3123,
+    "location": "Sydney, Australia",
+    "deadline": "2025-10-20"
+  },
+  {
+    "id": 43,
+    "title": "System Administrator",
+    "companyName": "AlphaCode",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/43/800/450",
+    "description": "We are looking for a System Administrator to join our team at AlphaCode. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Hybrid",
+    "startingSalary": 2045,
+    "endingSalary": 3041,
+    "location": "Mumbai, India",
+    "deadline": "2025-10-20"
+  },
+  {
+    "id": 44,
+    "title": "Product Designer",
+    "companyName": "AlphaCode",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/44/800/450",
+    "description": "We are looking for a Product Designer to join our team at AlphaCode. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Data",
+      "AI"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Remote",
+    "startingSalary": 4860,
+    "endingSalary": 5829,
+    "location": "Sydney, Australia",
+    "deadline": "2025-10-15"
+  },
+  {
+    "id": 45,
+    "title": "Project Manager",
+    "companyName": "DevSpark",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/45/800/450",
+    "description": "We are looking for a Project Manager to join our team at DevSpark. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Part Time",
+    "jobType": "Hybrid",
+    "startingSalary": 1970,
+    "endingSalary": 2708,
+    "location": "Toronto, Canada",
+    "deadline": "2025-12-17"
+  },
+  {
+    "id": 46,
+    "title": "Web Developer",
+    "companyName": "BlueLogic",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/46/800/450",
+    "description": "We are looking for a Web Developer to join our team at BlueLogic. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Hybrid",
+    "startingSalary": 2921,
+    "endingSalary": 4597,
+    "location": "Toronto, Canada",
+    "deadline": "2025-11-21"
+  },
+  {
+    "id": 47,
+    "title": "IT Support Engineer",
+    "companyName": "DataCloud",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/47/800/450",
+    "description": "We are looking for a IT Support Engineer to join our team at DataCloud. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Remote",
+    "startingSalary": 3429,
+    "endingSalary": 4794,
+    "location": "Singapore",
+    "deadline": "2025-10-12"
+  },
+  {
+    "id": 48,
+    "title": "DevOps Engineer",
+    "companyName": "Netwave",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/48/800/450",
+    "description": "We are looking for a DevOps Engineer to join our team at Netwave. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Data",
+      "AI"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Hybrid",
+    "startingSalary": 3671,
+    "endingSalary": 5093,
+    "location": "Toronto, Canada",
+    "deadline": "2025-10-05"
+  },
+  {
+    "id": 49,
+    "title": "Mobile App Developer",
+    "companyName": "DevSpark",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/49/800/450",
+    "description": "We are looking for a Mobile App Developer to join our team at DevSpark. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Remote",
+    "startingSalary": 2853,
+    "endingSalary": 3816,
+    "location": "Singapore",
+    "deadline": "2025-10-04"
+  },
+  {
+    "id": 50,
+    "title": "Product Designer",
+    "companyName": "CloudNex",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/50/800/450",
+    "description": "We are looking for a Product Designer to join our team at CloudNex. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Hybrid",
+    "startingSalary": 2827,
+    "endingSalary": 3606,
+    "location": "Lahore, Pakistan",
+    "deadline": "2025-11-26"
+  },
+  {
+    "id": 51,
+    "title": "IT Support Engineer",
+    "companyName": "Designify",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/51/800/450",
+    "description": "We are looking for a IT Support Engineer to join our team at Designify. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Hybrid",
+    "startingSalary": 2214,
+    "endingSalary": 3511,
+    "location": "Lahore, Pakistan",
+    "deadline": "2025-10-05"
+  },
+  {
+    "id": 52,
+    "title": "React Developer",
+    "companyName": "BlueLogic",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/52/800/450",
+    "description": "We are looking for a React Developer to join our team at BlueLogic. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Data",
+      "AI"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Part Time",
+    "jobType": "Remote",
+    "startingSalary": 2186,
+    "endingSalary": 4015,
+    "location": "Mumbai, India",
+    "deadline": "2025-12-11"
+  },
+  {
+    "id": 53,
+    "title": "Software Engineer",
+    "companyName": "NextVision",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/53/800/450",
+    "description": "We are looking for a Software Engineer to join our team at NextVision. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Onsite",
+    "startingSalary": 2719,
+    "endingSalary": 4585,
+    "location": "New York, USA",
+    "deadline": "2025-11-26"
+  },
+  {
+    "id": 54,
+    "title": "Data Scientist",
+    "companyName": "Softify",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/54/800/450",
+    "description": "We are looking for a Data Scientist to join our team at Softify. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Hybrid",
+    "startingSalary": 2566,
+    "endingSalary": 3758,
+    "location": "Dubai, UAE",
+    "deadline": "2025-11-19"
+  },
+  {
+    "id": 55,
+    "title": "QA Engineer",
+    "companyName": "TechNova",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/55/800/450",
+    "description": "We are looking for a QA Engineer to join our team at TechNova. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Onsite",
+    "startingSalary": 1681,
+    "endingSalary": 3151,
+    "location": "Tokyo, Japan",
+    "deadline": "2025-12-17"
+  },
+  {
+    "id": 56,
+    "title": "Cybersecurity Analyst",
+    "companyName": "DataCloud",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/56/800/450",
+    "description": "We are looking for a Cybersecurity Analyst to join our team at DataCloud. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Onsite",
+    "startingSalary": 3971,
+    "endingSalary": 4782,
+    "location": "New York, USA",
+    "deadline": "2025-11-20"
+  },
+  {
+    "id": 57,
+    "title": "Product Designer",
+    "companyName": "NextVision",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/57/800/450",
+    "description": "We are looking for a Product Designer to join our team at NextVision. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Onsite",
+    "startingSalary": 4897,
+    "endingSalary": 6305,
+    "location": "Tokyo, Japan",
+    "deadline": "2025-11-02"
+  },
+  {
+    "id": 58,
+    "title": "Backend Engineer",
+    "companyName": "AlphaCode",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/58/800/450",
+    "description": "We are looking for a Backend Engineer to join our team at AlphaCode. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Onsite",
+    "startingSalary": 2146,
+    "endingSalary": 3307,
+    "location": "Sydney, Australia",
+    "deadline": "2025-12-08"
+  },
+  {
+    "id": 59,
+    "title": "Project Manager",
+    "companyName": "NextVision",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/59/800/450",
+    "description": "We are looking for a Project Manager to join our team at NextVision. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Hybrid",
+    "startingSalary": 2495,
+    "endingSalary": 3551,
+    "location": "Berlin, Germany",
+    "deadline": "2025-12-28"
+  },
+  {
+    "id": 60,
+    "title": "Cloud Engineer",
+    "companyName": "TechHive",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/60/800/450",
+    "description": "We are looking for a Cloud Engineer to join our team at TechHive. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Hybrid",
+    "startingSalary": 4346,
+    "endingSalary": 6106,
+    "location": "Toronto, Canada",
+    "deadline": "2025-12-23"
+  },
+  {
+    "id": 61,
+    "title": "Machine Learning Engineer",
+    "companyName": "VirtuCode",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/61/800/450",
+    "description": "We are looking for a Machine Learning Engineer to join our team at VirtuCode. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Remote",
+    "startingSalary": 3334,
+    "endingSalary": 4491,
+    "location": "Lahore, Pakistan",
+    "deadline": "2025-10-09"
+  },
+  {
+    "id": 62,
+    "title": "Product Designer",
+    "companyName": "DevSpark",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/62/800/450",
+    "description": "We are looking for a Product Designer to join our team at DevSpark. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Remote",
+    "startingSalary": 4320,
+    "endingSalary": 5432,
+    "location": "Tokyo, Japan",
+    "deadline": "2025-10-07"
+  },
+  {
+    "id": 63,
+    "title": "Mobile App Developer",
+    "companyName": "VirtuCode",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/63/800/450",
+    "description": "We are looking for a Mobile App Developer to join our team at VirtuCode. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Remote",
+    "startingSalary": 2082,
+    "endingSalary": 2631,
+    "location": "San Francisco, USA",
+    "deadline": "2025-11-22"
+  },
+  {
+    "id": 64,
+    "title": "AI Researcher",
+    "companyName": "CloudNex",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/64/800/450",
+    "description": "We are looking for a AI Researcher to join our team at CloudNex. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Part Time",
+    "jobType": "Onsite",
+    "startingSalary": 4961,
+    "endingSalary": 6367,
+    "location": "Paris, France",
+    "deadline": "2025-11-07"
+  },
+  {
+    "id": 65,
+    "title": "Cloud Engineer",
+    "companyName": "CloudNex",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/65/800/450",
+    "description": "We are looking for a Cloud Engineer to join our team at CloudNex. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Onsite",
+    "startingSalary": 3443,
+    "endingSalary": 4997,
+    "location": "Lahore, Pakistan",
+    "deadline": "2025-12-14"
+  },
+  {
+    "id": 66,
+    "title": "UI/UX Designer",
+    "companyName": "InnovaTech",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/66/800/450",
+    "description": "We are looking for a UI/UX Designer to join our team at InnovaTech. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Remote",
+    "startingSalary": 2434,
+    "endingSalary": 2998,
+    "location": "Mumbai, India",
+    "deadline": "2025-10-24"
+  },
+  {
+    "id": 67,
+    "title": "Cloud Engineer",
+    "companyName": "CloudNex",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/67/800/450",
+    "description": "We are looking for a Cloud Engineer to join our team at CloudNex. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Onsite",
+    "startingSalary": 1236,
+    "endingSalary": 2648,
+    "location": "Dubai, UAE",
+    "deadline": "2025-11-09"
+  },
+  {
+    "id": 68,
+    "title": "Data Scientist",
+    "companyName": "Netwave",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/68/800/450",
+    "description": "We are looking for a Data Scientist to join our team at Netwave. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Onsite",
+    "startingSalary": 4780,
+    "endingSalary": 5364,
+    "location": "Toronto, Canada",
+    "deadline": "2025-11-14"
+  },
+  {
+    "id": 69,
+    "title": "QA Engineer",
+    "companyName": "FusionWare",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/69/800/450",
+    "description": "We are looking for a QA Engineer to join our team at FusionWare. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Hybrid",
+    "startingSalary": 4761,
+    "endingSalary": 5500,
+    "location": "Singapore",
+    "deadline": "2025-11-21"
+  },
+  {
+    "id": 70,
+    "title": "React Developer",
+    "companyName": "Designify",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/70/800/450",
+    "description": "We are looking for a React Developer to join our team at Designify. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Part Time",
+    "jobType": "Hybrid",
+    "startingSalary": 3458,
+    "endingSalary": 4694,
+    "location": "Paris, France",
+    "deadline": "2025-12-05"
+  },
+  {
+    "id": 71,
+    "title": "Cybersecurity Analyst",
+    "companyName": "CloudNex",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/71/800/450",
+    "description": "We are looking for a Cybersecurity Analyst to join our team at CloudNex. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Remote",
+    "startingSalary": 3769,
+    "endingSalary": 5459,
+    "location": "London, UK",
+    "deadline": "2025-12-28"
+  },
+  {
+    "id": 72,
+    "title": "Cloud Engineer",
+    "companyName": "InnovaTech",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/72/800/450",
+    "description": "We are looking for a Cloud Engineer to join our team at InnovaTech. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Hybrid",
+    "startingSalary": 4352,
+    "endingSalary": 6185,
+    "location": "Mumbai, India",
+    "deadline": "2025-11-11"
+  },
+  {
+    "id": 73,
+    "title": "Game Developer",
+    "companyName": "AlphaCode",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/73/800/450",
+    "description": "We are looking for a Game Developer to join our team at AlphaCode. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Remote",
+    "startingSalary": 4365,
+    "endingSalary": 5098,
+    "location": "London, UK",
+    "deadline": "2025-11-17"
+  },
+  {
+    "id": 74,
+    "title": "Machine Learning Engineer",
+    "companyName": "BlueLogic",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/74/800/450",
+    "description": "We are looking for a Machine Learning Engineer to join our team at BlueLogic. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Onsite",
+    "startingSalary": 4515,
+    "endingSalary": 5866,
+    "location": "Dubai, UAE",
+    "deadline": "2025-12-16"
+  },
+  {
+    "id": 75,
+    "title": "Backend Engineer",
+    "companyName": "DataCloud",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/75/800/450",
+    "description": "We are looking for a Backend Engineer to join our team at DataCloud. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Onsite",
+    "startingSalary": 3178,
+    "endingSalary": 4187,
+    "location": "Toronto, Canada",
+    "deadline": "2025-10-09"
+  },
+  {
+    "id": 76,
+    "title": "IT Support Engineer",
+    "companyName": "BitWorks",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/76/800/450",
+    "description": "We are looking for a IT Support Engineer to join our team at BitWorks. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Onsite",
+    "startingSalary": 1030,
+    "endingSalary": 2665,
+    "location": "Toronto, Canada",
+    "deadline": "2025-11-09"
+  },
+  {
+    "id": 77,
+    "title": "DevOps Engineer",
+    "companyName": "NextVision",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/77/800/450",
+    "description": "We are looking for a DevOps Engineer to join our team at NextVision. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Onsite",
+    "startingSalary": 2151,
+    "endingSalary": 3256,
+    "location": "Mumbai, India",
+    "deadline": "2025-10-24"
+  },
+  {
+    "id": 78,
+    "title": "Web Developer",
+    "companyName": "VirtuCode",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/78/800/450",
+    "description": "We are looking for a Web Developer to join our team at VirtuCode. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Onsite",
+    "startingSalary": 2805,
+    "endingSalary": 3501,
+    "location": "Toronto, Canada",
+    "deadline": "2025-10-14"
+  },
+  {
+    "id": 79,
+    "title": "AI Researcher",
+    "companyName": "Netwave",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/79/800/450",
+    "description": "We are looking for a AI Researcher to join our team at Netwave. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Remote",
+    "startingSalary": 2825,
+    "endingSalary": 3357,
+    "location": "Toronto, Canada",
+    "deadline": "2025-10-27"
+  },
+  {
+    "id": 80,
+    "title": "Backend Engineer",
+    "companyName": "BlueLogic",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/80/800/450",
+    "description": "We are looking for a Backend Engineer to join our team at BlueLogic. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Part Time",
+    "jobType": "Hybrid",
+    "startingSalary": 2980,
+    "endingSalary": 4121,
+    "location": "New York, USA",
+    "deadline": "2025-10-09"
+  },
+  {
+    "id": 81,
+    "title": "Machine Learning Engineer",
+    "companyName": "Designify",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/81/800/450",
+    "description": "We are looking for a Machine Learning Engineer to join our team at Designify. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Onsite",
+    "startingSalary": 3692,
+    "endingSalary": 5266,
+    "location": "Singapore",
+    "deadline": "2025-11-15"
+  },
+  {
+    "id": 82,
+    "title": "UI/UX Designer",
+    "companyName": "DevSpark",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/82/800/450",
+    "description": "We are looking for a UI/UX Designer to join our team at DevSpark. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Data",
+      "AI"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Onsite",
+    "startingSalary": 3464,
+    "endingSalary": 4000,
+    "location": "Paris, France",
+    "deadline": "2025-12-23"
+  },
+  {
+    "id": 83,
+    "title": "Mobile App Developer",
+    "companyName": "TechNova",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/83/800/450",
+    "description": "We are looking for a Mobile App Developer to join our team at TechNova. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Remote",
+    "startingSalary": 2706,
+    "endingSalary": 4062,
+    "location": "London, UK",
+    "deadline": "2025-10-01"
+  },
+  {
+    "id": 84,
+    "title": "Frontend Developer",
+    "companyName": "TechNova",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/84/800/450",
+    "description": "We are looking for a Frontend Developer to join our team at TechNova. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Remote",
+    "startingSalary": 2352,
+    "endingSalary": 3713,
+    "location": "Lahore, Pakistan",
+    "deadline": "2025-11-19"
+  },
+  {
+    "id": 85,
+    "title": "Cybersecurity Analyst",
+    "companyName": "PixelPoint Labs",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/85/800/450",
+    "description": "We are looking for a Cybersecurity Analyst to join our team at PixelPoint Labs. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Onsite",
+    "startingSalary": 3866,
+    "endingSalary": 4595,
+    "location": "New York, USA",
+    "deadline": "2025-12-15"
+  },
+  {
+    "id": 86,
+    "title": "Backend Engineer",
+    "companyName": "CyberNest",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/86/800/450",
+    "description": "We are looking for a Backend Engineer to join our team at CyberNest. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Onsite",
+    "startingSalary": 1461,
+    "endingSalary": 2453,
+    "location": "Paris, France",
+    "deadline": "2025-12-11"
+  },
+  {
+    "id": 87,
+    "title": "Data Scientist",
+    "companyName": "TechNova",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/87/800/450",
+    "description": "We are looking for a Data Scientist to join our team at TechNova. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Data",
+      "AI"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Onsite",
+    "startingSalary": 1613,
+    "endingSalary": 3571,
+    "location": "Sydney, Australia",
+    "deadline": "2025-10-18"
+  },
+  {
+    "id": 88,
+    "title": "Cybersecurity Analyst",
+    "companyName": "VirtuCode",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/88/800/450",
+    "description": "We are looking for a Cybersecurity Analyst to join our team at VirtuCode. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Data",
+      "AI"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Onsite",
+    "startingSalary": 4200,
+    "endingSalary": 5371,
+    "location": "Mumbai, India",
+    "deadline": "2025-12-16"
+  },
+  {
+    "id": 89,
+    "title": "Project Manager",
+    "companyName": "Netwave",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/89/800/450",
+    "description": "We are looking for a Project Manager to join our team at Netwave. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Remote",
+    "startingSalary": 2599,
+    "endingSalary": 3758,
+    "location": "London, UK",
+    "deadline": "2025-12-07"
+  },
+  {
+    "id": 90,
+    "title": "System Administrator",
+    "companyName": "Netwave",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/90/800/450",
+    "description": "We are looking for a System Administrator to join our team at Netwave. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "Git",
+      "Next.js",
+      "Express.js"
+    ],
+    "employmentType": "Part Time",
+    "jobType": "Remote",
+    "startingSalary": 2127,
+    "endingSalary": 3853,
+    "location": "San Francisco, USA",
+    "deadline": "2025-10-26"
+  },
+  {
+    "id": 91,
+    "title": "Project Manager",
+    "companyName": "CodeWave",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/91/800/450",
+    "description": "We are looking for a Project Manager to join our team at CodeWave. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Remote",
+    "startingSalary": 2739,
+    "endingSalary": 3636,
+    "location": "San Francisco, USA",
+    "deadline": "2025-10-22"
+  },
+  {
+    "id": 92,
+    "title": "System Administrator",
+    "companyName": "Designify",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/92/800/450",
+    "description": "We are looking for a System Administrator to join our team at Designify. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Remote",
+    "startingSalary": 2551,
+    "endingSalary": 3351,
+    "location": "Singapore",
+    "deadline": "2025-11-21"
+  },
+  {
+    "id": 93,
+    "title": "React Developer",
+    "companyName": "BlueLogic",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/93/800/450",
+    "description": "We are looking for a React Developer to join our team at BlueLogic. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "SQL"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Hybrid",
+    "startingSalary": 4801,
+    "endingSalary": 6795,
+    "location": "New York, USA",
+    "deadline": "2025-11-09"
+  },
+  {
+    "id": 94,
+    "title": "Project Manager",
+    "companyName": "FusionWare",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/94/800/450",
+    "description": "We are looking for a Project Manager to join our team at FusionWare. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Data",
+      "AI"
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Tailwind",
+      "TypeScript"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Hybrid",
+    "startingSalary": 3168,
+    "endingSalary": 5009,
+    "location": "Singapore",
+    "deadline": "2025-11-28"
+  },
+  {
+    "id": 95,
+    "title": "Frontend Developer",
+    "companyName": "PixelPoint Labs",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/95/800/450",
+    "description": "We are looking for a Frontend Developer to join our team at PixelPoint Labs. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "UI",
+      "UX",
+      "Design"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Onsite",
+    "startingSalary": 1757,
+    "endingSalary": 3666,
+    "location": "Lahore, Pakistan",
+    "deadline": "2025-10-10"
+  },
+  {
+    "id": 96,
+    "title": "Product Designer",
+    "companyName": "FusionWare",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo1Oh2p0adq3albRHXqpjzqLibJ4mI5d5XQ&s",
+    "heroImage": "https://picsum.photos/seed/96/800/450",
+    "description": "We are looking for a Product Designer to join our team at FusionWare. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Backend",
+      "Security"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Full Time",
+    "jobType": "Onsite",
+    "startingSalary": 2144,
+    "endingSalary": 2882,
+    "location": "Toronto, Canada",
+    "deadline": "2025-12-08"
+  },
+  {
+    "id": 97,
+    "title": "Mobile App Developer",
+    "companyName": "FusionWare",
+    "companyLogo": "https://www.logo.wine/a/logo/Microsoft_Store/Microsoft_Store-Logo.wine.svg",
+    "heroImage": "https://picsum.photos/seed/97/800/450",
+    "description": "We are looking for a Mobile App Developer to join our team at FusionWare. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Contract",
+    "jobType": "Hybrid",
+    "startingSalary": 3067,
+    "endingSalary": 4162,
+    "location": "Berlin, Germany",
+    "deadline": "2025-10-05"
+  },
+  {
+    "id": 98,
+    "title": "UI/UX Designer",
+    "companyName": "CloudNex",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/98/800/450",
+    "description": "We are looking for a UI/UX Designer to join our team at CloudNex. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Frontend",
+      "Cloud"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Hybrid",
+    "startingSalary": 2977,
+    "endingSalary": 4303,
+    "location": "Dubai, UAE",
+    "deadline": "2025-11-15"
+  },
+  {
+    "id": 99,
+    "title": "IT Support Engineer",
+    "companyName": "CyberNest",
+    "companyLogo": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?semt=ais_hybrid&w=740&q=80",
+    "heroImage": "https://picsum.photos/seed/99/800/450",
+    "description": "We are looking for a IT Support Engineer to join our team at CyberNest. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Figma"
+    ],
+    "employmentType": "Internship",
+    "jobType": "Onsite",
+    "startingSalary": 1288,
+    "endingSalary": 1947,
+    "location": "Mumbai, India",
+    "deadline": "2025-12-19"
+  },
+  {
+    "id": 100,
+    "title": "Mobile App Developer",
+    "companyName": "DataCloud",
+    "companyLogo": "https://media.wired.com/photos/5a99ba72927dc94e67685b9b/191:100/w_1280,c_limit/amazon-a-logo.jpg",
+    "heroImage": "https://picsum.photos/seed/100/800/450",
+    "description": "We are looking for a Mobile App Developer to join our team at DataCloud. You will collaborate with cross-functional teams to build and maintain high-quality digital products.",
+    "responsibilities": [
+      "Develop and maintain scalable applications",
+      "Collaborate with product managers and designers",
+      "Ensure application performance and responsiveness"
+    ],
+    "requirements": [
+      "Proven experience with modern frameworks and tools",
+      "Strong problem-solving and communication skills",
+      "Ability to work in a collaborative environment"
+    ],
+    "tags": [
+      "Remote",
+      "Engineering",
+      "Full Stack"
+    ],
+    "skills": [
+      "Node.js",
+      "Docker",
+      "AWS"
+    ],
+    "employmentType": "Part Time",
+    "jobType": "Hybrid",
+    "startingSalary": 4252,
+    "endingSalary": 5701,
+    "location": "Paris, France",
+    "deadline": "2025-10-23"
+  }
+]

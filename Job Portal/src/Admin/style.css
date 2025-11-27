@@ -1,0 +1,32 @@
+.company-logo {
+    position: relative;
+    z-index: 99;
+    background-color: white;
+}
+
+.company-logo::after {
+    position: absolute;
+    height: 115%;
+    width: 2px;
+    content: "";
+    background-color: #613FE5;
+    top: -10px;
+    left: 50%;
+    z-index: -1;
+}
+
+.company-logo::before {
+    position: absolute;
+    height: 2px;
+    width: 120%;
+    content: "";
+    background-color: #613FE5;
+    top: 50%;
+    left: -15px;
+    z-index: -1;
+}
+
+/* 
+.upload-link>input {
+    visibility: n */
+/* } */

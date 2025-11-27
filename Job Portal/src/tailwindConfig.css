@@ -1,7 +1,7 @@
 /*---------------------------
     Import Google fonts:
 ----------------------------*/
-@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"); */
 
 /*------------------------
     Import Tailwind CSS
@@ -47,10 +47,10 @@
     --color-footer_text: #c6cffa;
 
     --font-Poppins: "Poppins";
-    --font-Roboto: "Roboto";
+    --font-Roboto: "Roboto Variable";
     --font-Lato: "Lato";
-    --font-Montserrat: "Montserrat";
-    --font-Rubik: "Rubik";
+    --font-Montserrat: "Montserrat Variable";
+    --font-Rubik: "Rubik Variable";
 
     --breakpoint-sm: 576px;
     --breakpoint-md: 768px;
@@ -59,4 +59,7 @@
     --breakpoint-2xl: 1400px;
 
     --shadow-3xl: 0px 6px 60px 0px rgba(0, 0, 0, 0.1);
+
+    --shadow-normal: 0px 0px 10px rgba(0, 24, 128, 0.1);
+    --shadow-de: 0 0 10px 0 rgba(0, 24, 128, 0.1)
 }
